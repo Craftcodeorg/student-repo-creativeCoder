@@ -1,0 +1,1 @@
+2. How can you access the value associated with a key in a dictionary?
