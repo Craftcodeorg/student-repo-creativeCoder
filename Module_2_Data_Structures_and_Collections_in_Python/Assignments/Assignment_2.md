@@ -1,0 +1,1 @@
+2. Assignment: Create a function that takes a list of stock prices and returns the highest price.
